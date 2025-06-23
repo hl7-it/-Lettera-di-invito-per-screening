@@ -10,18 +10,18 @@ Le possibili votazioni sono:
 
 - ## Come utilizzare le label:
 
-  *Comment*
+*Comment*
 - **Come ad esempio una richiesta chiarimento "Il paragrafo introduttivo potrebbe essere chiarito meglio con un esempio pratico."** <img src="input/images/quest.png" width="65" alt=""/>
 
- *Question*
+*Question*
 - **Come ad esempio una richiesta chiarimento sulla gestione di un nuovo elemento utile per ambiguità, dubbi su interpretazioni, o comprensione dello standard** <img src="input/images/quest.png" width="65" alt=""/>
 
-  *Technical Correction* 
+*Technical Correction* 
 - **Come ad esempio un errore di battitura di un elemento nel valueset ovvero per errori minori che possono essere corretti senza impatto semantico** <img src="input/images/tech.png" width="115" alt=""/>
 
 - **Come ad esempio un errore di battitura descrizione valueset** <img src="input/images/tech.png" width="115" alt=""/>
  
-  *Change Proposal*
+*Change Proposal*
 - **Come ad esempio dei cambiamenti che impattano struttura, vincoli, semantica o interoperabilità.** <img src="input/images/change pro.png" width="95" alt=""/>
   
 - **Come ad esempio se si propone di aggiungere un nuovo attributo o diverso valueset.** <img src="input/images/change pro.png" width="95" alt=""/>
