@@ -1,4 +1,4 @@
-# -Lettera-di-invito-per-screening HL7 CDA® R2
+# Lettera di invito per screening HL7 CDA® R2
 
 # Ballot: Guida alla votazione
 La procedura di ballot segue lo standard Jira Balloting di HL7 international FHIR, che prevede l'utilizzo delle Issue GitHub (le Issue aperte prima dell'inizio del ballot sono segnalate come "Pre-Ballot Close"). Tale procedura è utile a segnalare commenti correlati alla votazione. 
