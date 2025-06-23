@@ -20,10 +20,9 @@ Le possibili votazioni sono:
   Esempio : *Technical Correction* 
 - **Errore di battitura di un elemento nel valueset ovvero per errori minori che possono essere corretti senza impatto semantico** <img src="input/images/tech.png" width="115" alt=""/>
 
-  Esempio : *Technical Correction* 
 - **Errore di battitura descrizione valueset** <img src="input/images/tech.png" width="115" alt=""/>
  
   Esempio: *Change Proposal*
 - **Cambiamenti che impattano struttura, vincoli, semantica o interoperabilità.** <img src="input/images/change pro.png" width="95" alt=""/>
   
-
+- **Si propone di aggiungere un nuovo attributo o diverso valueset.** <img src="input/images/change pro.png" width="95" alt=""/>
