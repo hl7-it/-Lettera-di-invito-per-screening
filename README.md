@@ -11,7 +11,7 @@ Le possibili votazioni sono:
 - ## Come utilizzare le label:
 - **Commento positivo** <img src="input/images/comment.png" width="65" alt=""/>
 
-  Esempio:*Comment*
+  Esempio: *Comment*
 - **Richiesta chiarimento "Il paragrafo introduttivo potrebbe essere chiarito meglio con un esempio pratico."** <img src="input/images/quest.png" width="65" alt=""/>
 
   Esempio: *Question*
